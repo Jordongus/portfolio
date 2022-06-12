@@ -14,14 +14,14 @@ body{
     font-size: 18px;
     display:flex;
     justify-content: space-between;
-    margin-left: 15%;
+    margin-left: 13%;
     margin-right: 15%;
 }
 .list{
     color: #e5e7eb;
     display:flex;
     justify-content: space-around;
-    gap: 50px;
+    gap: 1em;
     list-style: none;
 }
 a{
